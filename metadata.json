@@ -1,0 +1,5 @@
+{
+  "name": "Office Inventory Management",
+  "description": "A professional, business-oriented stock management web application for an office inventory system. It allows for full CRUD functionality, filtering, sorting, and exporting inventory data to Excel files.",
+  "requestFramePermissions": []
+}
